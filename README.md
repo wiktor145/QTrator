@@ -1,11 +1,6 @@
 # QTrator
 Repository for files related with QTrator - comparator of quantum transpilers created as master's thesis in AGH
 
-
-# Description of directories and files
-
-todo
-
 # System diagram and description
 
 ![Alt text](general.png?raw=true "System diagram")
