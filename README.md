@@ -8,7 +8,7 @@ todo
 
 # System diagram and description
 
-todo diagram
+![Alt text](general.pdf?raw=true "System diagram")
 
 The system is designed for a complete and automatic comparison of quantum transpilers. 
 The author decided to name the system QTrator (Quantum TRAnspilers comparaTOR).
