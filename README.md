@@ -10,7 +10,7 @@ todo
 
 ![Alt text](general.png?raw=true "System diagram")
 
-The system is designed for a complete and automatic comparison of quantum transpilers. 
+"The system is designed for a complete and automatic comparison of quantum transpilers. 
 The author decided to name the system QTrator (Quantum TRAnspilers comparaTOR).
 
 The entire system work is divided into three sections: 
@@ -24,4 +24,4 @@ Metric Evaluator takes those optimized circuits and, using all the defined metri
 Errors Evaluator executes all the result circuits using the quantum simulator on a given quantum backend model with defined noise.
 This is used to check whether optimized circuits on a noised backend performs closer to the ideal. 
 The results of those two modules are passed to the last module - Chart Drawer. 
-It helps in human evaluation and visualization of all the results.
+It helps in human evaluation and visualization of all the results."
